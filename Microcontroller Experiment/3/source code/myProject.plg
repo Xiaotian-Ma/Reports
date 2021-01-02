@@ -1,0 +1,16 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+E:\ma\MC\MM experiment\专题设计\马笑天_光电1802_U201813654_3\Source\myProject.uvproj
+Project File Date:  06/02/2020
+
+<h2>Output:</h2>
+assembling Source Code.asm...
+Source Code.asm - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: data=8.0 xdata=0 code=1934
+creating hex file from "myProject"...
+"myProject" - 0 Error(s), 0 Warning(s).
